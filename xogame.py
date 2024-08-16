@@ -28,6 +28,8 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Tic Tac Toe')
 screen.fill(BG_COLOR)
 
+# this is a new thing in branch one
+print('test')
 # Board setup
 board = [[0 for _ in range(BOARD_COLS)] for _ in range(BOARD_ROWS)]
 
