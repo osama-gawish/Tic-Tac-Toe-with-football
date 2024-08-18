@@ -157,6 +157,13 @@ while True:
                     else:
                         draw_lines_x()
                         x_sound.play()
+            else:
+                # Restart the game if left-clicking after the game is over
+                if event.type == pygame.MOUSEBUTTONDOWN and game_over:  # 1 represents the left mouse button
+                    restart()
+                    game_over = False
+                    player = 2
+                    result_text = ""
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_r:
                     restart()
