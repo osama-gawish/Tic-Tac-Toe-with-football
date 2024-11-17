@@ -8,10 +8,10 @@ Tools & Technologies: Python, Yolov10, OpenCV, Ultralytics, Pygame, Perspective 
 •	Developed a Tic Tac Toe game using Pygame to import with the main script.  
 
 ## the 1st camera mounted on the wall and the 2nd mounted on the projector
-![](IsometricView.jpeg)
+![](IsometricView.jpg)
 
-## No preview of the project is available yet. However, here is something like the required final result:
+## No preview of the project is available yet. However, here is what the required final result should look like:
 ![](game.gif)
 
-### preview of the game on PC:
+### Preview of the game on PC:
 ![](xo.gif)
