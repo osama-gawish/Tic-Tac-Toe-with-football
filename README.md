@@ -7,6 +7,8 @@ Tools & Technologies: Python, Yolov10, OpenCV, Ultralytics, Pygame, Perspective 
 •	Calibrated the camera and performed perspective transform to project the results accurately in the projector screen.  
 •	Developed a Tic Tac Toe game using Pygame to import with the main script.  
 
+## the 1st camera mounted on the wall and the 2nd mounted on the projector
+![](IsometricView.jpeg)
 
 ## No preview of the project is available yet. However, here is something like the required final result:
 ![](game.gif)
