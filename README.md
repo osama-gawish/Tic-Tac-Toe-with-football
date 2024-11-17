@@ -1,2 +1,2 @@
-## The project isn't completed yet. However, Here is someting like the required final result:
+## The project isn't completed yet. However, here is something like the required final result:
 ![](game.gif)
