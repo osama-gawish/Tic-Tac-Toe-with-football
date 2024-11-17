@@ -13,5 +13,8 @@ Tools & Technologies: Python, Yolov10, OpenCV, Ultralytics, Pygame, Perspective 
 ## the 1st camera mounted on the wall and the 2nd mounted on the projector  
 ![](IsometricView.jpg)
 
+## 2nd cam preview
+![](cam2.png)
+
 ### Preview of the game on PC:
 ![](xo.gif)
